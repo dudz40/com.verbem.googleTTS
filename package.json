@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "google-home-audio-tts": "^0.1.5"
+  }
+}
