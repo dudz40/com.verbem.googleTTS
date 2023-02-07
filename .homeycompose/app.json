@@ -1,7 +1,7 @@
 {
   "id": "com.google.tts",
   "name": {
-    "en": "Cast Text to Google"
+    "en": "Cast a text to Google"
   },
   "brandColor": "#f5a623",
   "version": "3.0.4",
