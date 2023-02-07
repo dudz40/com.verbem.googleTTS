@@ -1,0 +1,1 @@
+The texttoSpeech app creates a file that is to be casted to google cast devices using the CASTv2 protocol.

@@ -4,7 +4,8 @@
   "name": {
     "en": "Cast Google TTS"
   },
-  "version": "3.0.0",
+  "brandColor": "#1A73E8",
+  "version": "3.0.2",
   "compatibility": ">=6.0.0",
   "sdk": 3,
   "author": {
