@@ -6,14 +6,19 @@
     "de": "Sprich etwas"
   },
   "titleFormatted": {
-    "en": "Say [[text]] on [[device]] in [[language]] at volume [[volume]]%, slow [[speed]], to muted too [[muted]]",
-    "nl": "Zeg [[text]] op [[device]] in het [[language]] met volume [[volume]]%, langzaam [[speed]], ook naar gedempt [[muted]]",
-    "de": "Sprich [[text]] auf [[device]] ins [[language]] mit Lautstärke [[volume]]%, langsam [[speed]], auch nach stummgeschaltetes [[muted]]"
+    "en": "Say [[text]] on [[device]] in [[language]] at volume [[volume]], slow [[speed]], to muted too [[muted]]",
+    "nl": "Zeg [[text]] op [[device]] in het [[language]] met volume [[volume]], langzaam [[speed]], ook naar gedempt [[muted]]",
+    "de": "Sprich [[text]] auf [[device]] ins [[language]] mit Lautstärke [[volume]], langsam [[speed]], auch nach stummgeschaltetes [[muted]]"
   },
   "args": [
     {
       "name": "device",
       "type": "autocomplete",
+      "title": {
+        "en": "Cast device",
+        "nl": "Cast apparaat",
+        "de": "Cast Gerät"
+      },
       "placeholder": {
         "en": "Choose a device",
         "nl": "Kies een apparaat",
@@ -22,6 +27,11 @@
     },
     {
       "name": "language",
+      "title": {
+        "en": "Language",
+        "nl": "Taal",
+        "de": "Sprache"
+      },
       "type": "dropdown",
       "values": [
         {
@@ -215,8 +225,8 @@
       "type": "checkbox",
       "title": {
         "en": "Slow speech speed",
-        "nl": "Langzame spraak snelheid",
-        "de": "Langsames Sprechtempo"
+        "nl": "Langzame spraaksnelheid",
+        "de": "Langsame Sprechgeschwindigkeit"
       }
     },
     {
@@ -226,7 +236,7 @@
       "max": 1,
       "step": 0.01,
       "label": "%",
-      "tilte": {"en": "Volume", "nl": "Volume", "de": "Lautstärke"},
+      "title": {"en": "Volume", "nl": "Volume", "de": "Lautstärke"},
       "labelMultiplier": 100,
       "labelDecimals": 0
     },
