@@ -75,6 +75,7 @@ class googleTTS extends Homey.App {
     }
 
     async discoverDevices() {
+        // TODO refresh
         this.foundDevices['Broadcast'] = {name: 'Broadcast', description: 'Broadcast to all devices'};
 
         const discoveryStrategy = this.homey.discovery.getStrategy('googlecast');
