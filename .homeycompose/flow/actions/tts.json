@@ -237,9 +237,9 @@
       "name": "muted",
       "type": "checkbox",
       "title": {
-        "en": "Send to muted device",
-        "nl": "Verzenden naar gedempt apparaat",
-        "de": "An stummgeschaltetes Gerät senden"
+        "en": "Send to muted device too",
+        "nl": "Ook verzenden naar gedempt apparaat",
+        "de": "Auch an stummgeschaltetes Gerät senden"
       }
     }
   ]
