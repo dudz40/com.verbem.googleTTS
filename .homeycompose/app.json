@@ -1,5 +1,5 @@
 {
-  "id": "com.verbem.castTTS",
+  "id": "com.google.tts",
   "name": {
     "en": "Cast Text to Google"
   },
@@ -9,7 +9,7 @@
   "sdk": 3,
   "author": {
     "name": "Dennie de Groot (redone by Martin Verbeek)",
-    "email": "dudz40@gmail.coml"
+    "email": "mail@denniedegroot.nl"
   },
   "contributors": {
     "developers": [
