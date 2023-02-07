@@ -5,12 +5,12 @@
     "en": "Cast Google TTS"
   },
   "brandColor": "#1A73E8",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "compatibility": ">=6.0.0",
   "sdk": 3,
   "author": {
-    "name": "Dennie de Groot",
-    "email": "mail@denniedegroot.nl"
+    "name": "Dennie de Groot (redone by Martin Verbeek)",
+    "email": "dudz40@gmail.coml"
   },
   "contributors": {
     "developers": [
