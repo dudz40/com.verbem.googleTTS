@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "google-home-audio-tts": "^0.1.5"
+    "castv2-client": "^1.2.0",
+    "google-tts-api": "^2.0.2"
   }
 }
