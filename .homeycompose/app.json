@@ -1,0 +1,40 @@
+{
+  "id": "com.verbem.googleTTS",
+  "name": {
+    "en": "Google TTS"
+  },
+  "version": "3.0.0",
+  "compatibility": ">=6.0.0",
+  "sdk": 3,
+  "author": {
+    "name": "Dennie de Groot",
+    "email": "mail@denniedegroot.nl",
+    "website": "https://denniedegroot.nl"
+  },
+  "contributors": {
+    "developers": [
+      {
+        "name": "Dennie de Groot",
+        "email": "mail@denniedegroot.nl",
+        "website": "https://denniedegroot.nl"
+      }
+    ]
+  },
+  "contributing": {
+    "donate": {
+      "paypal": {
+        "username": "denniedegroot"
+      }
+    }
+  },
+  "description": {
+    "en": "Google TTS support for Homey",
+    "nl": "Google TTS ondersteuning voor Homey",
+    "de": "Google TTS Unterstützung für Homey"
+  },
+  "images": {
+    "large": "./assets/images/large.jpg",
+    "small": "./assets/images/small.jpg"
+  },
+  "category": "tools"
+}
