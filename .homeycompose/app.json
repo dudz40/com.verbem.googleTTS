@@ -3,7 +3,7 @@
   "name": {
     "en": "Cast Text to Google"
   },
-  "brandColor": "#1A73E8",
+  "brandColor": "#f5a623",
   "version": "3.0.4",
   "compatibility": ">=6.0.0",
   "sdk": 3,
@@ -33,7 +33,8 @@
   },
   "images": {
     "large": "./assets/images/large.png",
-    "small": "./assets/images/small.png"
+    "small": "./assets/images/small.png",
+    "xlarge": "./assets/images/xlarge.png"
   },
   "category": "tools"
 }
